@@ -1,5 +1,6 @@
-package org.example;
+package org.example.tests;
 
+import org.example.Player;
 import org.example.exceptions.MissedShotException;
 import org.junit.Assert;
 import org.junit.Test;
